@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/Automation_Nisum_Alb-master"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

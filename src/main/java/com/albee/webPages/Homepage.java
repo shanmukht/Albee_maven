@@ -19,7 +19,10 @@ public class Homepage extends Basepage {
 	}
 
 	public void navAccount() {
+	//	driver.navigate().refresh(); //refreshing the page
 		linkMyAccount.click();
+	//	driver.navigate().back();  //just navigating back for testing
+	//	driver.navigate().forward(); //just navigating forward for testing
 	}
 	
 	public void navCarSeat() {
