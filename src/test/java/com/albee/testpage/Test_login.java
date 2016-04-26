@@ -107,7 +107,7 @@ public class Test_login extends Basepage{
 		Homepage hp = new Homepage(driver);
 		Thread.sleep(5000);
 		
-		hp.navAccount();	
+	//	hp.navAccount();	
 
 	//	Loginpage lp = new Loginpage(driver);
 	//	lp.userAccountLogin(ldt);

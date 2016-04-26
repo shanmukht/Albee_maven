@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.albee.testpage.Test_login
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.402 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.902 sec
