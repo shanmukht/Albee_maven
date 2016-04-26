@@ -109,7 +109,7 @@ public class Test_login extends Basepage{
 		
 		hp.navAccount();	
 
-		Loginpage lp = new Loginpage(driver);
+	//	Loginpage lp = new Loginpage(driver);
 	//	lp.userAccountLogin(ldt);
 	//	lp.userAccountLogin("WrongUser_RightPwd",ldt);
 	//	driver.navigate().back();
