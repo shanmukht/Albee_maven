@@ -111,11 +111,11 @@ public class Test_login extends Basepage{
 
 		Loginpage lp = new Loginpage(driver);
 	//	lp.userAccountLogin(ldt);
-		lp.userAccountLogin("WrongUser_RightPwd",ldt);
+	//	lp.userAccountLogin("WrongUser_RightPwd",ldt);
 	//	driver.navigate().back();
-		lp.userAccountLogin("RightUser_WrongPwd",ldt);
-		lp.userAccountLogin("EmptyUser_EmptyPwd",ldt);
-		lp.userAccountLogin("RightUser_RightPwd",ldt);
+	//	lp.userAccountLogin("RightUser_WrongPwd",ldt);
+	//	lp.userAccountLogin("EmptyUser_EmptyPwd",ldt);
+	//	lp.userAccountLogin("RightUser_RightPwd",ldt);
 //		
 		
 //		boolean status = driver.findElement(By.name("email")).isDisplayed();
